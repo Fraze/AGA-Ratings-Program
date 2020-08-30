@@ -9,7 +9,7 @@ Might there be better ways to rate games? Maybe (*cough* Whole History Rating, G
 
 ## The Math
 Paul Matthews was one of the lead authors of the rating system. He published an "easy" to understand explanation of the system
-Simple Version - https://github.com/amj/AGA-Ratings-Program/tree/myfork
+Simple Version - https://www.usgo.org/sites/default/files/pdf/AGARatings-Simple.pdf
 
 Phil Waldron had a role I have not yet unearthed, but he has provided an detailed mathematical explanation of the system.
 Detailed Version - https://www.usgo.org/sites/default/files/pdf/AGARatings-Math.pdf
